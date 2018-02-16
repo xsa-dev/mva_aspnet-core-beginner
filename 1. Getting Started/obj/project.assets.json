@@ -664,28 +664,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SAVIN\\.nuget\\packages\\": {},
+    "C:\\Users\\salek\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\dotnetlearning\\mva\\video1\\dotnetlearning.csproj",
+      "projectUniqueName": "D:\\code\\dotnet\\mva_aspnet-core-beginner\\video1\\dotnetlearning.csproj",
       "projectName": "dotnetlearning",
-      "projectPath": "X:\\dotnetlearning\\mva\\video1\\dotnetlearning.csproj",
-      "packagesPath": "C:\\Users\\SAVIN\\.nuget\\packages\\",
-      "outputPath": "X:\\dotnetlearning\\mva\\video1\\obj\\",
+      "projectPath": "D:\\code\\dotnet\\mva_aspnet-core-beginner\\video1\\dotnetlearning.csproj",
+      "packagesPath": "C:\\Users\\salek\\.nuget\\packages\\",
+      "outputPath": "D:\\code\\dotnet\\mva_aspnet-core-beginner\\video1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\SAVIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\salek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
