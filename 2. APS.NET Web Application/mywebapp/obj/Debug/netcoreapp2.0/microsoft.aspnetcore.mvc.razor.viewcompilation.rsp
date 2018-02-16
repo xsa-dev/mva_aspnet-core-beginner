@@ -1,0 +1,6 @@
+D:\code\dotnet\mva_aspnet-core-beginner\2. APS.NET Web Application\mywebapp
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=mywebapp
+--content-root=D:\code\dotnet\mva_aspnet-core-beginner\2. APS.NET Web Application\mywebapp
+--file=D:\code\dotnet\mva_aspnet-core-beginner\2. APS.NET Web Application\mywebapp\Pages\Index.cshtml
+--file=D:\code\dotnet\mva_aspnet-core-beginner\2. APS.NET Web Application\mywebapp\Pages\Solange\Index.cshtml

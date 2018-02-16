@@ -1,0 +1,1 @@
+[This is link to this cource on mva.microsoft.com](https://mva.microsoft.com/en-US/training-courses/aspnet-core-beginner-18153?l=1koIlj7dE_811787171)

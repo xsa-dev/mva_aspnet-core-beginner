@@ -28,3 +28,13 @@ D:\code\dotnet\mva_aspnet-core-beginner\video1\obj\Debug\netcoreapp2.0\dotnetlea
 D:\code\dotnet\mva_aspnet-core-beginner\video1\obj\Debug\netcoreapp2.0\dotnetlearning.AssemblyInfo.cs
 D:\code\dotnet\mva_aspnet-core-beginner\video1\obj\Debug\netcoreapp2.0\dotnetlearning.dll
 D:\code\dotnet\mva_aspnet-core-beginner\video1\obj\Debug\netcoreapp2.0\dotnetlearning.pdb
+D:\code\dotnet\mva_aspnet-core-beginner\1. Getting Started\bin\Debug\netcoreapp2.0\dotnetlearning.deps.json
+D:\code\dotnet\mva_aspnet-core-beginner\1. Getting Started\bin\Debug\netcoreapp2.0\dotnetlearning.runtimeconfig.json
+D:\code\dotnet\mva_aspnet-core-beginner\1. Getting Started\bin\Debug\netcoreapp2.0\dotnetlearning.runtimeconfig.dev.json
+D:\code\dotnet\mva_aspnet-core-beginner\1. Getting Started\bin\Debug\netcoreapp2.0\dotnetlearning.dll
+D:\code\dotnet\mva_aspnet-core-beginner\1. Getting Started\bin\Debug\netcoreapp2.0\dotnetlearning.pdb
+D:\code\dotnet\mva_aspnet-core-beginner\1. Getting Started\obj\Debug\netcoreapp2.0\dotnetlearning.csproj.CoreCompileInputs.cache
+D:\code\dotnet\mva_aspnet-core-beginner\1. Getting Started\obj\Debug\netcoreapp2.0\dotnetlearning.AssemblyInfoInputs.cache
+D:\code\dotnet\mva_aspnet-core-beginner\1. Getting Started\obj\Debug\netcoreapp2.0\dotnetlearning.AssemblyInfo.cs
+D:\code\dotnet\mva_aspnet-core-beginner\1. Getting Started\obj\Debug\netcoreapp2.0\dotnetlearning.dll
+D:\code\dotnet\mva_aspnet-core-beginner\1. Getting Started\obj\Debug\netcoreapp2.0\dotnetlearning.pdb
