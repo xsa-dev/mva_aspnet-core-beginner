@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\dotnet\\mva_aspnet-core-beginner\\video1\\dotnetlearning.csproj",
+      "projectUniqueName": "D:\\code\\dotnet\\mva_aspnet-core-beginner\\1. Getting Started\\dotnetlearning.csproj",
       "projectName": "dotnetlearning",
-      "projectPath": "D:\\code\\dotnet\\mva_aspnet-core-beginner\\video1\\dotnetlearning.csproj",
+      "projectPath": "D:\\code\\dotnet\\mva_aspnet-core-beginner\\1. Getting Started\\dotnetlearning.csproj",
       "packagesPath": "C:\\Users\\salek\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\dotnet\\mva_aspnet-core-beginner\\video1\\obj\\",
+      "outputPath": "D:\\code\\dotnet\\mva_aspnet-core-beginner\\1. Getting Started\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

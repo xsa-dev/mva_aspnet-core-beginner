@@ -5,7 +5,7 @@ namespace dotnetlearning
     class Program
     {
         static void Main(string[] args) {
-            Console.WriteLine("Hello, Aleksey Savin!");
+            Console.WriteLine("Hello, Aleksey Savin!, please enter your value and 'exit' if you want exit");
             string value = Console.ReadLine();
 
             while (!value.Equals("exit")) {
